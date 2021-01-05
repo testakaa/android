@@ -1,0 +1,134 @@
+{ 
+    
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
+        "interid": "ca-app-pub-3940256099942544/1033173712",
+        "nativeid": "ca-app-pub-3940256099942544/2247696110",
+        "openid":"ca-app-pub-3940256099942544/1033173712",
+        "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
+        "link_update": "https://www.google.com/",
+        "interval": 1,
+        "pengaturan_iklan":"1",
+        "startappid":"12345678",
+        "version_app":1,
+        "fan_inter":"YOUR_PLACEMENT_ID",
+        "fan_banner_native":"YOUR_PLACEMENT_ID",
+         "id_inmobi":"1234567890qwerty0987654321qwerty12345",
+        "inmobi_inter":1476878485960,
+        "inmobi_banner":1473189489298,
+        "hpk_admob1":"",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
+        }
+    ],
+    
+   "Categories": [
+    {
+      "id": 1,
+      "nama_cat": "Humor",
+      "gambar": "https://static.thenounproject.com/png/2024620-200.png"
+
+    },
+    {
+      "id": 2,
+      "nama_cat": "Kultum",
+      "gambar": "https://png.pngtree.com/png-vector/20190527/ourmid/pngtree-book-icon-png-image_1110447.jpg"
+
+    },
+    {
+      "id": 3,
+      "nama_cat": "Nasihat",
+      "gambar": "https://id-test-11.slatic.net/shop/4e71cc40d7ae6487ec4e44dd5f39a141.png"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "nama_cat":"Humor",
+      "deskripsi":"Dulu aku heran, napa orang sampe berantem ? hanya karena cinta. Trus aku inget muka kamu, dan tiba-tiba, aku merasa siap menghadapi Perang Dunia Ketiga."
+    },
+    {
+      "id":2,
+      "nama_cat":"Humor",
+      "deskripsi":"Cintailah seorang wanita saja. Dua wanita terlalu banyak. Tapi tiga wanita lebih baik daripada tidak ada."
+    },
+    {
+      "id":3,
+      "nama_cat":"Humor",
+      "deskripsi":"Sebenarnya, yang melahirkan uang adalah Mpok Indonesia. Bank Indonesia cuma menanam benih."
+    },
+    {
+      "id":4,
+      "nama_cat":"Humor",
+      "deskripsi":"Untuk sementara ini bagi teman-teman yang ingin menulis di dinding FB saya, saya mohon maaf karena dinding FB saya sedang di cat"
+    },
+    {
+      "id":5,
+      "nama_cat":"Humor",
+      "deskripsi":"Yang jomblo jangan pernah merasa malu..Jomblo bukan berarti gak laku, tapi emang gak ada yang mau."
+    },
+    {
+      "id":6,
+      "nama_cat":"Humor",
+      "deskripsi":"Di malam yang sunyi,di suasana yang sepi dan tak terasa rintik hujan pun turun entah kenapa hanya kau yang ingin kutemui, tuk mengatakan “GENTENG RUMAH LO BOCOR”"
+    },
+    {
+      "id":7,
+      "nama_cat":"Humor",
+      "deskripsi":"Tadi aku mencoba bunu diri, minum sebetol racun, eh…ternyata gak mati-mati terus aku baca botol itu ternyata isinya hanya air mineral saja"
+    },
+    {
+      "id":8,
+      "nama_cat":"Humor",
+      "deskripsi":"Pelanggan Yth. Masa aktif hidup anda akan segera habis, saldo dosa anda sudah melewati batas. Segera isi ulang iman anda di rumah ibadah terdekat sebelum nyawa anda di blokir."
+    },
+    {
+      "id":9,
+      "nama_cat":"Humor",
+      "deskripsi":"Kegagalan adalah kesuksesan yang tertunda dan kebohongan adalah kejujuran yang tertunda"
+    },
+    {
+      "id":10,
+      "nama_cat":"Humor",
+      "deskripsi":"Jika aada orang yang menyebutmu jelek, maka jangan berputus asa karena belum tentu orang tersebut berkata bohong"
+    },
+    {
+      "id":11,
+      "nama_cat":"Nasihat",
+      "deskripsi":"Kesejahteraaan memberikan peringatan, sedangkan bencana memberi nasihat."
+    },
+    {
+      "id":12,
+      "nama_cat":"Nasihat",
+      "deskripsi":"Setiap orang punya cara tersendiri untuk membahagiakan orang yg mereka sayangi. Kadang sederhana; namun bermakna."
+    },
+    {
+      "id":13,
+      "nama_cat":"Nasihat",
+      "deskripsi":"Sebab, bagaimana pun dipertahankan. Jika hanya sepihak yang berjuang. Pada akhirnya lelah & menyerah juga."
+    },
+    {
+      "id":14,
+      "nama_cat":"Nasihat",
+      "deskripsi":"Tetap bersyukur dalam keadaan apapun, karena kebahagiaan berawal dari rasa syukur yg selalu kita panjatkan."
+    },
+    {
+      "id":15,
+      "nama_cat":"Nasihat",
+      "deskripsi":"Ikhlas, berusaha yang terbaik & serahkan hasilnya padaNya. Karena Tuhan Maha Tahu apa yang terbaik bagi kita saat ini."
+    },
+    {
+      "id":16,
+      "nama_cat":"Kultum",
+      "deskripsi":"Jangan lupa untuk selalu sayangi keluarga. Karena mereka yang tetap tinggal disaat ‘dia’ yang datang-dan-pergi menyakitimu."
+    }
+
+  ]
+}
