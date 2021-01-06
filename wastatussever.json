@@ -44,6 +44,12 @@
       "nama_cat": "Nasihat",
       "gambar": "https://id-test-11.slatic.net/shop/4e71cc40d7ae6487ec4e44dd5f39a141.png"
 
+    },
+    {
+      "id": 4,
+      "nama_cat": "Motivasi Hidup",
+      "gambar": "https://id-test-11.slatic.net/shop/4e71cc40d7ae6487ec4e44dd5f39a141.png"
+
     }
   ],
 
@@ -128,7 +134,52 @@
       "id":16,
       "nama_cat":"Kultum",
       "deskripsi":"Jangan lupa untuk selalu sayangi keluarga. Karena mereka yang tetap tinggal disaat ‘dia’ yang datang-dan-pergi menyakitimu."
-    }
+    },
+    {
+      "id":17,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Lakukan lebih banyak untuk dunia daripada untuk dirimu."
+},
+{
+      "id":18,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Keraguan membunuh lebih banyak mimpi daripada kegagalan." 
+},
+{
+      "id":19,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Lakukan apa yang harus kamu lakukan sampai kamu dapat melakukan apa yang ingin kamu lakukan." 
+},
+{
+      "id":20,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Daripada mengeluh tentang keadaanmu, sibuklah dan buat beberapa yang baru."
+},
+{
+      "id":21,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Hidup kita mulai berakhir saat kita menjadi diam tentang hal-hal yang penting.”
+},
+{
+      "id":22,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Tidak ada kata terlambat untuk menjadi dirimu yang seharusnya."
+},
+{
+      "id":23,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Sukses tampaknya terkait dengan tindakan. Orang sukses terus bergerak. Mereka membuat kesalahan, tetapi mereka tidak berhenti."
+},
+{
+      "id":24,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Kegagalan dibuat hanya oleh mereka yang gagal untuk berani, bukan oleh mereka yang berani gagal."
+},
+{
+      "id":25,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Keberanian adalah penolakan terhadap rasa takut, penguasaan rasa takut, bukan ketiadaan rasa takut."
+}
 
   ]
 }
