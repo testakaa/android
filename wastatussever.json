@@ -179,7 +179,320 @@
       "id":25,
       "nama_cat":"Motivasi Hidup",
       "deskripsi":"Keberanian adalah penolakan terhadap rasa takut, penguasaan rasa takut, bukan ketiadaan rasa takut."
+},
+{
+      "id":26,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Sukses bukanlah akhir, kegagalan tidak fatal. Yang terpenting adalah keberanian untuk melanjutkan."
+},
+
+{
+      "id":27,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Jangan takut untuk melepaskan yang baik demi kebaikan."
+
+
+{
+      "id":28,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Lebih baik gagal dalam orisinalitas daripada berhasil meniru."
+},
+
+{
+      "id":29,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Sukses biasanya datang kepada mereka yang terlalu sibuk mencarinya."
+},
+
+{
+      "id":30,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Kembangkan kesuksesan dari kegagalan. Keputusasaan dan kegagalan adalah dua batu loncatan paling pasti menuju sukses."
+},
+
+{
+      "id":31,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Jangan takut untuk melepaskan yang baik demi kebaikan."
+},
+
+{
+      "id":32,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Orang pesimis melihat kesulitan di setiap kesempatan. Orang yang optimis melihat peluang dalam setiap kesulitan."
+},
+
+{
+      "id":33,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Sukses adalah mendapatkan apa yang kamu inginkan, kebahagiaan menginginkan apa yang kamu dapatkan."
+},
+
+{
+      "id":34,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Saya tidak bisa memberimu rumus untuk sukses, tapi saya bisa memberi rumus untuk gagal, yaitu: cobalah untuk menyenangkan semua orang."
+},
+
+{
+      "id":35,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Orang-orang menanyakan perbedaan antara pemimpin dan bos. Pemimpin bekerja di tempat terbuka, dan bos secara rahasia. Pemimpin memimpin, dan bos menyetir."
+},
+
+{
+      "id":36,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Waktu lebih berharga daripada uang. Kamu bisa mendapatkan lebih banyak uang, tetapi kamu tidak bisa mendapatkan lebih banyak waktu."
+},
+
+{
+      "id":37,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Alasan nomor satu orang gagal dalam hidup adalah karena mereka mendengarkan teman, keluarga, dan tetangga mereka."
+},
+
+{
+      "id":38,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Jika saya punya waktu enam jam untuk menebang pohon, saya akan menghabiskan empat jam pertama mengasah kapak."
+},
+
+{
+      "id":39,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Kesempatan itu mirip seperti matahari terbit. Kalau kau menunggu terlalu lama, kau bisa melewatkannya."
+},
+
+{
+      "id":40,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Jangan habiskan waktumu memukuli tembok dan berharap bisa mengubahnya menjadi pintu."
+},
+
+{
+      "id":41,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Jangan tunda pekerjaanmu sampai besok, sementara kau bisa mengerjakannya hari ini."
+},
+
+{
+      "id":42,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Makin keras kamu bekerja untuk sesuatu, makin besar perasaanmu saat mencapainya."
+},
+
+{
+      "id":43,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Terkadang kita diuji bukan untuk menunjukkan kelemahan kita, tetapi untuk menemukan kekuatan kita."
+},
+
+{
+      "id":44,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Kamu laiknya karya seni. Tidak semua orang akan mengerti dirimu, tetapi orang-orang yang mengerti, tidak akan pernah melupakanmu."
+},
+
+{
+      "id":45,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Kesuksesan dan kegagalan sama-sama bagian dari hidup. Keduanya sama-sama sementara."
+},
+
+{
+      "id":46,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Waktumu terbatas, jangan habiskan untuk hidup orang lain."
+},
+
+{
+      "id":47,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Jangan takut berjalan lambat, takutlah jika hanya berdiri diam."
+},
+
+{
+      "id":48,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Jangan pernah menyesali sehari dalam hidupmu. Hari-hari baik memberimu kebahagiaan dan hari-hari buruk memberimu pengalaman."
+},
+
+{
+      "id":49,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Tidak ada yang bisa membuatmu merasa rendah diri tanpa seizinmu."
+},
+
+{
+      "id":50,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Tidak ada seorang pun yang bisa kembali ke masa lalu dan memulai awal yang baru lagi. Tapi, semua orang bisa memulai hari ini dan membuat akhir yang baru."
+},
+
+{
+      "id":51,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Jangan berhenti ketika lelah. Berhentilah ketika selesai."
+},
+
+{
+      "id":52,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Jangan khawatir tentang kegagalan, khawatirlah tentang peluang yang kamu lewatkan ketika kamu tidak mencoba sesuatu."
+
+},
+
+{
+      "id":53,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Keberanian adalah penolakan terhadap rasa takut, penguasaan rasa takut, bukan ketiadaan rasa takut."
+},
+
+{
+      "id":54,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Keberanian adalah penolakan terhadap rasa takut, penguasaan rasa takut, bukan ketiadaan rasa takut."
+},
+
+{
+      "id":55,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Banyak orang yang tidak bertindak karena takut gagal, padahal tidak bertindak adalah kegagalan yang jelas sudah terjadi."
+},
+
+{
+      "id":56,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Ketika keinginanmu cukup kuat, kamu akan tampak memiliki kekuatan manusia super untuk mencapainya."
+},
+
+{
+      "id":57,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Kadang-kadang, pilihan terbaik adalah menerima."
+},
+
+{
+      "id":58,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Kemuliaan terbesar dalam hidup tidak terletak pada ketangguhan, tetapi dalam bangkit setiap kali kita jatuh."
+},
+
+{
+      "id":59,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Kesulitan sebenarnya adalah mengatasi caramu berpikir tentang diri sendiri."
+},
+
+{
+      "id":60,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Jatuh cinta pada dirimu adalah rahasia pertama menuju kebahagiaan"
+},
+
+{
+      "id":61,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Pertumbuhan dimulai ketika kita mulai menerima kelemahan kita sendiri."
+},
+
+{
+      "id":62,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Orang yang benar-benar hebat adalah orang yang membuat setiap orang merasa hebat."
+},
+
+{
+      "id":63,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Jangan takut kalau hidupmu akan berakhir; takutlah kalau hidupmu tak pernah dimulai."
+},
+
+{
+      "id":64,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Hidup ini terdiri dari 10 persen apa yang terjadi padamu dan 90 persen bagaimana caramu menyikapinya."
+},
+
+{
+      "id":65,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Aku bisa menjadi seperti sekarang karena pilihan yang kuambil kemarin."
+},
+
+{
+      "id":66,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Kamu adalah kesuksesan sejati jika kamu dapat memercayai diri sendiri, mencintai diri sendiri, dan menjadi diri sendiri."
+},
+
+{
+      "id":67,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Percaya diri adalah pakaian terbaik."
+},
+
+{
+      "id":68,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Kesempatan itu mirip seperti matahari terbit. Kalau kau menunggu terlalu lama, kau bisa melewatkannya."
+},
+
+{
+      "id":69,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Kunci kesuksesan adalah fokus pada tujuan, bukan hambatan."
+},
+
+{
+      "id":70,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Jangan habiskan waktumu memukuli tembok dan berharap bisa mengubahnya menjadi pintu."
+},
+
+{
+      "id":71,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"20 tahun dari sekarang, kau mungkin lebih kecewa dengan hal-hal yang tidak sempat kau lakukan alih-alih yang sudah."
+},
+
+{
+      "id":72,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Jangan tunda pekerjaanmu sampai besok, sementara kau bisa mengerjakannya hari ini."
+},
+
+{
+      "id":73,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Mencintai diri sendiri berarti memahami bahwa kamu tidak perlu menjadi sempurna untuk menjadi baik."
+},
+
+{
+      "id":74,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Segala yang dapat kamu bayangkan adalah nyata."
+},
+
+{
+      "id":75,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Tindakan adalah kunci dasar untuk semua kesuksesan."
+},
+
+{
+      "id":76,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Orang yang tak pernah membuat kesalahan adalah orang yang tidak pernah berbuat apa-apa."
+},
+
+{
+      "id":77,
+      "nama_cat":"Motivasi Hidup",
+      "deskripsi":"Tak ada batasan dalam hidup, kecuali yang kau buat sendiri."
 }
+
 
   ]
 }
