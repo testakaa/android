@@ -107,6 +107,245 @@
     },
     {
       "id":11,
+      "nama_cat":"Humor",
+      "deskripsi":"Aku rela ditangkap polisi asal tuduhannya atas pencurian hatimu"
+},
+
+{
+      "id":12,
+      "nama_cat":"Humor",
+      "deskripsi":"Cinta adalah pengorbanan, tapi kalau pengorbanan mulu sih namanya penderitaan."
+
+
+{
+      "id":13,
+      "nama_cat":"Humor",
+      "deskripsi":"Sejak kenal kamu, bawaannya pengen belajar terus. Belajar jadi yang terbaik."
+},
+
+{
+      "id":14,
+      "nama_cat":"Humor",
+      "deskripsi": "Angkutan kota jauh dekat 2.000, kalau kamu jauh dekat ya di hatiku."
+},
+
+{
+      "id":15,
+      "nama_cat":"Humor",
+      "deskripsi":"Cintaku padamu seperti utang. Awalnya kecil, didiemin, tau-tau gede sendiri."
+},
+
+{
+      "id":16,
+      "nama_cat":"Humor",
+      "deskripsi":"Salah terus aku di matamu. Oke, mulai besok aku pindah ke hidungmu."
+},
+
+{
+      "id":17,
+      "nama_cat":"Humor",
+      "deskripsi":"Sayang, bekerjalah seperti tuyul. Nggak kelihatan, nggak perlu pujian, nggak cari perhatian, tapi hasil jelas."
+},
+
+{
+      "id":18,
+      "nama_cat":"Humor",
+      "deskripsi":"Jangan pernah orang lain manggil kamu 'Say'. Karena itu bisa jadi bukan sayang, tapi 'Saython'."
+},
+
+{
+      "id":19,
+      "nama_cat":"Humor",
+      "deskripsi":"Aku ketagihan sama perasaan saat aku memikirkanmu."
+},
+
+{
+      "id":20,
+      "nama_cat":"Humor",
+      "deskripsi":"Sebingung bingungnya rumus nuklir, aku lebih bingung kok wajahmu nggak ilang-ilang dari pikiranku ya?"
+},
+
+{
+      "id":21,
+      "nama_cat":"Humor",
+      "deskripsi":"Ingatlah selalu kalau kau jatuh, aku akan mengangkatmu. Tapi setelah aku selesai tertawa."
+},
+
+{
+      "id":22,
+      "nama_cat":"Humor",
+      "deskripsi":"Kalau ada yang melemparmu dengan batu. Lemparlah balik dengan bunga, dan jangan lupakan potnya."
+},
+
+{
+      "id":23,
+      "nama_cat":"Humor",
+      "deskripsi":"Tertawa bisa jadi obat terbaik. Tapi kalau kamu tertawa tanpa alasan yang jelas, mungkin kamu butuh obat."
+},
+
+{
+      "id":24,
+      "nama_cat":"Humor",
+      "deskripsi":"Teman yang baik akan meminjamkan pundaknya untukmu menangis. Tapi sahabat yang baik akan meminjam cangkul untuk memukul orang yang membuatmu menangis."
+},
+
+{
+      "id":25,
+      "nama_cat":"Humor",
+      "deskripsi":"Hidup itu singkat. Maka tersenyumlah mumpung kamu masih punya gigi."
+},
+
+{
+      "id":26,
+      "nama_cat":"Humor",
+      "deskripsi":"Orang asing mengira aku pendiam, temanku mengira aku asyik, Sahabatku mengetahui bahwa aku sangat gila."
+},
+
+{
+      "id":27,
+      "nama_cat":"Humor",
+      "deskripsi":"Aku rela menjadi lilin dalam hati kamu asal kamu yang jagain lilinnya, yahhh!"
+},
+
+{
+      "id":28,
+      "nama_cat":"Humor",
+      "deskripsi":"Pas lagi capek selalu ada temen buat mijitin, pas lagi kangen selalu ada pacar yang nyamperin, pas lagi bokek..!! malah pada nagih utang."
+},
+
+{
+      "id":29,
+      "nama_cat":"Humor",
+      "deskripsi":"Sebenarnya ane udah bosan hidup atas di dunia ini, tapi kalau masuk neraka lagi ntar ketemu lagi sama ente-ente semua."
+},
+
+{
+      "id":30,
+      "nama_cat":"Humor",
+      "deskripsi":"Jangan pernah kamu menyalahkan diri kamu sendiri jika kamu itu jelek. Tapi protes dan salahkanlah orang tua kamu, karena kejelekan itu adalah keturunan."
+},
+
+{
+      "id":31,
+      "nama_cat":"Humor",
+      "deskripsi":"Aku bukan pemalas. Aku sedang menjalankan mode hemat energi."
+},
+
+{
+      "id":32,
+      "nama_cat":"Humor",
+      "deskripsi":"Manusia itu memang susah nyalahin diri sendiri. Leher pegel dibilang salah bantal."
+},
+
+{
+      "id":33,
+      "nama_cat":"Humor",
+      "deskripsi":"Jangan sombong kalau jadi atasan. Di pasar, atasan diobral 10 ribu dapat 3."
+},
+
+{
+      "id":34,
+      "nama_cat":"Humor",
+      "deskripsi":"Kalau saja mulutmu punya BPKB, pasti udah aku gadaikan."
+},
+
+{
+      "id":35,
+      "nama_cat":"Humor",
+      "deskripsi":"Punggungku bukan voice-mail. Kalau mau bilang sesuatu, mending bilang langsung di depanku."
+},
+
+{
+      "id":36,
+      "nama_cat":"Humor",
+      "deskripsi":"Kalau zombie menyerbu kamu bakal aman. Karena yang mereka incar adalah otak."
+},
+
+{
+      "id":37,
+      "nama_cat":"Humor",
+      "deskripsi":"Motivator dan pembicara tak dapat membuatku rajin bekerja. Hanya cicilan dan tagihan yang mampu."
+
+},
+
+{
+      "id":38,
+      "nama_cat":"Humor",
+      "deskripsi":"Bermimpilah setinggi langit, jika kamu terjatuh berarti tidurmu kurang tengah."
+},
+
+{
+      "id":39,
+      "nama_cat":"Humor",
+      "deskripsi":"Aku diminta menunggumu terus, apa menurutmu akau ini cctv?."
+},
+
+{
+      "id":40,
+      "nama_cat":"Humor",
+      "deskripsi":"Jadi kamu iri sama aku? Ya sudah aku mengalah saja, aku ke kanan."
+},
+
+{
+      "id":41,
+      "nama_cat":"Humor",
+      "deskripsi":"Sebenarnya aku bisa main ke mall dengan menggunakan makeup duduk di kafe, tapi aku tidak mau. Nanti aku dikira memiliki banyak uang."
+},
+
+{
+      "id":42,
+      "nama_cat":"Humor",
+      "deskripsi":"Yang berlipstik akan kalah dengan orang yang berilmu."
+},
+
+{
+      "id":43,
+      "nama_cat":"Humor",
+      "deskripsi":"Aku tidak butuh peta atau gps, kalau bersamamu aku sudah yakin mau ke mana."
+},
+
+{
+      "id":44,
+      "nama_cat":"Humor",
+      "deskripsi":"Foto profil BBM kenapa sama pacarnya terus. Apa dulu beli handphonenya urunan?."
+},
+
+{
+      "id":45,
+      "nama_cat":"Humor",
+      "deskripsi":"Kalau aku pandang sorot matamu, sepertinya kamu akan mengucapkan keingan berhutang padaku."
+},
+
+{
+      "id":46,
+      "nama_cat":"Humor",
+      "deskripsi":"Demi mengenang mantan yang telah move on mendahului kita, mengheningkan cinta, mulai!."
+},
+
+{
+      "id":47,
+      "nama_cat":"Humor",
+      "deskripsi":"Cowoknya cool, ceweknya hot, anaknya pasti dispenser."
+},
+
+{
+      "id":48,
+      "nama_cat":"Humor",
+      "deskripsi":"Ketemuan di twitter, jadian di Fb, pacaran di BBM, putus di WA, Itu pacaran apa olshop."
+},
+
+{
+      "id":49,
+      "nama_cat":"Humor",
+      "deskripsi":"Nggak ada bahu pacar masih ada bahu jalan buat nyandar."
+},
+
+{
+      "id":50,
+      "nama_cat":"Humor",
+      "deskripsi":"Aku putus sama pacar karna beda keyakinan. aku yakin banget aku ganteng, tapi dianya nggak."
+}
+      "id":11,
       "nama_cat":"Nasihat",
       "deskripsi":"Kesejahteraaan memberikan peringatan, sedangkan bencana memberi nasihat."
     },
