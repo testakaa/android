@@ -342,7 +342,8 @@
       "id":50,
       "nama_cat":"Humor",
       "deskripsi":"Aku putus sama pacar karna beda keyakinan. aku yakin banget aku ganteng, tapi dianya nggak."
-}
+},
+      {
       "id":11,
       "nama_cat":"Nasihat",
       "deskripsi":"Kesejahteraaan memberikan peringatan, sedangkan bencana memberi nasihat."
@@ -372,6 +373,245 @@
       "nama_cat":"Kultum",
       "deskripsi":"Jangan lupa untuk selalu sayangi keluarga. Karena mereka yang tetap tinggal disaat ‘dia’ yang datang-dan-pergi menyakitimu."
     },
+      {
+      "id":17,
+      "nama_cat":"Kultum",
+      "deskripsi":"Aku percaya, takdir Allah pastilah yang terbaik untukku dan untukmu juga."
+},
+
+{
+      "id":18,
+      "nama_cat":"Kultum",
+      "deskripsi":"Rugi sekali jika seorang pria melepas wanita yang cantik akhlaknya, hanya demi mengejar wanita yang cantik wajahnya."
+
+{
+      "id":19,
+      "nama_cat":"Kultum",
+      "deskripsi":"Kamu tidak berhak mengeluarkan air mata untuk seseorang yang belum halal bagimu."
+},
+
+{
+      "id":20,
+      "nama_cat":"Kultum",
+      "deskripsi":"Jangan menyerah saat doa-doamu belum terjawab. Jika kamu mampu bersabar, Allah mampu memberikan lebih dari apa yang kamu minta."
+},
+
+{
+      "id":21,
+      "nama_cat":"Kultum",
+      "deskripsi":"Jangan salahkan orang ketika kamu kecewa, tapi salahkan dirimu sendiri karena terlalu berharap sesuatu yang belum pasti."
+},
+
+{
+      "id":22,
+      "nama_cat":"Kultum",
+      "deskripsi":"Jika sayang orang tua, taati Allah, maka orang tua kita akan disenangi Allah, disayang Allah, itulah sebenar-benar balasan kita pada orang tua."
+},
+
+{
+      "id":23,
+      "nama_cat":"Kultum",
+      "deskripsi":"Kunci hidup bahagia adalah jalani, nikmati, dan syukuri."
+},
+
+{
+      "id":24,
+      "nama_cat":"Kultum",
+      "deskripsi":"Kekayaan bukanlah dengan banyaknya harta, namun kekayaan adalah hati yang selalu merasa cukup."
+},
+
+{
+      "id":25,
+      "nama_cat":"Kultum",
+      "deskripsi":"Awali hari dengan Bismilah, optimistis, dan tawakal, Insyaallah harimu akan berkah."
+},
+
+{
+      "id":26,
+      "nama_cat":"Kultum",
+      "deskripsi":"Bila hijrahmu karena Allah, kamu akan terus melangkah walaupun sudah lelah."
+},
+
+{
+      "id":27,
+      "nama_cat":"Kultum",
+      "deskripsi":"Andai saja orang memikirkan kebesaran Allah, maka ia terjaga dari perbuatan buruk."
+},
+
+{
+      "id":28,
+      "nama_cat":"Kultum",
+      "deskripsi":"Bila ingin mendapatkan sesuatu, belajarlah dengan memberi sesuatu."
+},
+
+{
+      "id":29,
+      "nama_cat":"Kultum",
+      "deskripsi":"Sesungguhnya orang yang sempurna akalnya adalah yang selalu memperbaiki dirinya."
+},
+
+{
+      "id":30,
+      "nama_cat":"Kultum",
+      "deskripsi":"Barang siapa yang bersungguh sungguh, dia akan berhasil."
+},
+
+{
+      "id":31,
+      "nama_cat":"Kultum",
+      "deskripsi":"Hidup di dunia itu hanya sementara, gunakanlah sebaik baiknya untuk beribadah."
+},
+
+{
+      "id":32,
+      "nama_cat":"Kultum",
+      "deskripsi":"Allah akan menolong seorang hamba, selama hambanya senantiasa menolong saudaranya."
+},
+
+{
+      "id":33,
+      "nama_cat":"Kultum",
+      "deskripsi":"Jadikan Al-Qur'an dan Hadis sebagai pedoman hidupmu."
+},
+
+{
+      "id":34,
+      "nama_cat":"Kultum",
+      "deskripsi":"Ya Allah bantulah aku untuk selalu ingat, bersyukur, dan selalu beribadah secara baik kepada-Mu."
+},
+
+{
+      "id":35,
+      "nama_cat":"Kultum",
+      "deskripsi":"Orang yang akan masuk surga ialah orang yang selalu taat dan percaya kepada Allah dan Rasul-Nya."
+},
+
+{
+      "id":36,
+      "nama_cat":"Kultum",
+      "deskripsi":"Dunia merupakan ladang akhirat. Maka manfaatkan dunia dengan sebaik-baiknya."
+},
+
+{
+      "id":37,
+      "nama_cat":"Kultum",
+      "deskripsi":"Janganlah patah hati jika doa engkau tidak dikabulkan oleh Allah, Allah tau apa yang akan Dia perbuat."
+},
+
+{
+      "id":38,
+      "nama_cat":"Kultum",
+      "deskripsi":"Jadikanlah setiap detik, setiap menit, setiap jam, dan setiap hari untuk selalu beribadah kepada Allah."
+},
+
+{
+      "id":39,
+      "nama_cat":"Kultum",
+      "deskripsi":"Ilmu tanpa adanya agama adalah sesuatu kecacatan dan agama tanpa ilmu merupakan kebutaan."
+},
+
+{
+      "id":40,
+      "nama_cat":"Kultum",
+      "deskripsi":"Allah menguji kita dengan sesuatu yang kita cintai, maka janganlah berlebihan mencintai, agar sedih pun tidak berlebihan."
+},
+
+{
+      "id":41,
+      "nama_cat":"Kultum",
+      "deskripsi":"Meminta maaf tak perlu menunggu momen Lebaran, meminta maaflah ketika berbuat salah."
+},
+
+{
+      "id":42,
+      "nama_cat":"Kultum",
+      "deskripsi":"Lelaki baik akan memberimu cinta yang baik, membawamu pada sesuatu yang baik, dan menjadikan dirimu lebih baik."
+},
+
+{
+      "id":43,
+      "nama_cat":"Kultum",
+      "deskripsi":"Tak peduli seberapa banyak orang yang senang menggosipimu, cukup diam dan dengarkan saja, sesungguhnya dia sedang memberimu pahala."
+
+},
+
+{
+      "id":44,
+      "nama_cat":"Kultum",
+      "deskripsi":"Lebih baik menunggu orang yang benar-benar kita harapkan daripada menghabiskan waktu dengan orang yang tidak tepat."
+},
+
+{
+      "id":45,
+      "nama_cat":"Kultum",
+      "deskripsi":"Sedekah tidak sama dengan matematika bisa ditambah, dikurang, dibagi dan dikali karena sedekah itu akan berlimpah dan berkali lipat kembali kepada kita."
+},
+
+{
+      "id":46,
+      "nama_cat":"Kultum",
+      "deskripsi":"Seberat apa pun masalah yang kau hadapi, yakinlah bahwa itu masih bisa kau hadapi"
+},
+
+{
+      "id":47,
+      "nama_cat":"Kultum",
+      "deskripsi":"Orang yang kuat bukanlah dia yang tidak pernah menangis, tetapi orang yang terus istikamah di tengah godaan."
+},
+
+{
+      "id":48,
+      "nama_cat":"Kultum",
+      "deskripsi":"Mereka yang terlalu dalam terluka disebabkan terlalu jauh meninggalkan cinta kepada Allah dan Rasul-Nya."
+},
+
+{
+      "id":49,
+      "nama_cat":"Kultum",
+      "deskripsi":"Kebahagiaan terletak pada kemenangan memerangi hawa nafsu dan menahan kehendak yang berlebih-lebihan."
+},
+
+{
+      "id":50,
+      "nama_cat":"Kultum",
+      "deskripsi":"Jadilah muslimah yang memiliki dua kecantikan, cantik luar yang dilindungi hijab syar’i. Cantik dalam yang dihiasi akhlak terpuji."
+},
+
+{
+      "id":51,
+      "nama_cat":"Kultum",
+      "deskripsi":"Keyakinan adalah ketenangan di dalam hati yang tidak akan bisa kita dapatkan tanpa perenungan yang mendalam."
+},
+
+{
+      "id":52,
+      "nama_cat":"Kultum",
+      "deskripsi":"Ketika kita menginginkan sesuatu yang tak kunjung didapatkan, maka Allah meminta kita untuk sabar menunggu."
+},
+
+{
+      "id":53,
+      "nama_cat":"Kultum",
+      "deskripsi":"Doa harusnya menjadi pembuka di pagi hari dan menjadi penutup di waktu malam hari."
+},
+
+{
+      "id":54,
+      "nama_cat":"Kultum",
+      "deskripsi":"Lebih baik tersindir ketika diingatkan daripada tidak merasakan apa-apa ketika diingatkan."
+},
+
+{
+      "id":55,
+      "nama_cat":"Kultum",
+      "deskripsi":"Menjadi pribadi yang ingin banyak tahu dengan banyak bertanya itu sejatinya lebih beruntung daripada pribadi yang segan bertanya karena merasa banyak tahu."
+},
+
+{
+      "id":56,
+      "nama_cat":"Kultum",
+      "deskripsi":"Sahabat ialah yang ketika bersama kita dia menguatkan kita dan apabila tidak di sisi kita, mereka adalah orang yang selalu mendoakan kebaikan untuk kita."
+},
     {
       "id":17,
       "nama_cat":"Motivasi Hidup",
